@@ -1,5 +1,5 @@
 Text,Expect
 "trail ",TRUE
 "trail  ",TRUE
-"trail   ",FALSE
+"trail   ",TRUE
 "hey,  i have no space at the end",FALSE
