@@ -1,4 +1,4 @@
-Text,Match
+Text,Expect
 me@notarealemail.com,TRUE
 not_real@im.so.fake.com,TRUE
 not real@im.so.fake.com,FALSE
