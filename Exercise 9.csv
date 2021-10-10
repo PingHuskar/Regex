@@ -1,0 +1,5 @@
+Text,Expect
+trail ,TRUE
+trail  ,TRUE
+trail   ,FALSE
+hey, i have no space at the end,FALSE
