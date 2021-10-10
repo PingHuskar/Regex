@@ -1,0 +1,9 @@
+Text,Expect
+Yay!!!,TRUE
+Yay!!!!,TRUE
+Yay!!!!!,TRUE
+Yay!!!!!!,TRUE
+Yay!!,FALSE
+Yay!!!!!!!,FALSE
+yay!!!,FALSE
+Yaay!!!!!!,FALSE
