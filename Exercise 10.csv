@@ -1,0 +1,7 @@
+Text,Expect
+tab\t\ttab,TRUE
+\t\ttwotabs,TRUE
+tabs\t\t\t,TRUE
+one\ttab,FALSE
+no tabs,FALSE
+\tseparated\ttabs,FALSE
