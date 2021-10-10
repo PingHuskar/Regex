@@ -1,0 +1,6 @@
+Text,Expect
+1) Finish regex course,TRUE
+223513) Go to bed,TRUE
+"I think it would be best to 1) stop, 2) drop, and 3) roll",FALSE
+1. Wake up at noon,FALSE
+a) You don't talk about fight club,FALSE
