@@ -1,0 +1,5 @@
+Text,Match
+me@notarealemail.com,TRUE
+not_real@im.so.fake.com,TRUE
+not real@im.so.fake.com,FALSE
+not.real_at_im.so.fake.com,FALSE
