@@ -1,0 +1,6 @@
+Text,Expect
+321 yay!,TRUE
+54321 yay!,TRUE
+21 yay!,FALSE
+yay! 321!,FALSE
+987654321 yay!,FALSE
