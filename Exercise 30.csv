@@ -1,0 +1,8 @@
+Text,Expect
+10 of clubs,TRUE
+A of hearts,TRUE
+3 of spades,TRUE
+11 of diamonds,FALSE
+23 of hearts,FALSE
+J of dots,FALSE
+"3 of hearts, Q of clubs",FALSE
