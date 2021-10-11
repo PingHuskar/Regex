@@ -1,6 +1,6 @@
 Text,Expect
-"<span>Yowza! That’s a great regular expression.</span>","[<span>Yowza! That’s a great regular expression.</span>]"
-"<p>Learn about regular expressions here.</p><p>You\'re going to love them!</p>","[<p>Learn about regular expressions here.</p>, <p>You're going to love them!</p>]"
+"<span>Yowza! That’s a great regular expression.</span>","[""<span>Yowza! That’s a great regular expression.</span>""]"
+"<p>Learn about regular expressions here.</p><p>You\'re going to love them!</p>","[""<p>Learn about regular expressions here.</p>"", ""<p>You're going to love them!</p>]"""
 "<h1>Regular Expressions</h1>
 <h2>Quantifiers</h2>
 <p>Quantifiers tell you how many of the preceding token are allowed.</p>","[''<h1>Regular Expressions</h1>'',
