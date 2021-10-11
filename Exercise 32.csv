@@ -1,0 +1,9 @@
+Text,Expect
+2012-02-03 18:35:34 SampleClass6 [INFO] everything normal for id 577725851,False
+2012-02-03 18:35:34 SampleClass4 [FATAL] system problem at id 1991281254,True
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 1304807656,False
+2012-02-03 18:35:34 SampleClass3 [WARN] missing id 423340895,False
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 2082654978,False
+2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513,True
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 438634209,False
+2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 2074121310,False
