@@ -1,4 +1,4 @@
 Text,Expect
 "She sells seashells by the seashore","[sells, seashells, seashore]"
 "Sean, see if you can search for Selena.","[Sean, see, search, Selena]"
-Noses smell.,""
+Noses smell.,"[]"
